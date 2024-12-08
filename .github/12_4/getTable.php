@@ -38,7 +38,7 @@ require_once 'myfun.php';
 <?php
 
 if (isset($_GET['name']) && $_GET['name'] != '') {
-	SearchName($_GET['name'],$connect);
+	//SearchName($_GET['name'],$connect);
 }
 
 //SearchName('Alice',$connect);
