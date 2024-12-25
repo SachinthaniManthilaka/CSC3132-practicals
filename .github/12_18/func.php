@@ -17,7 +17,6 @@ function RequiredField($value,$msg="the field can't be empty")
     } else {
         return true;
     }
-
 }
 
 
